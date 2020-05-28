@@ -15,7 +15,7 @@ f = open(filename, "w")
 headers = "date, winner, winning_score, loser, losing_score, draw\n"
 f.write(headers)
 
-for year in range(1966, 1970):
+for year in years_list:
     for week in weeks_list:
         new_url = base_url+str(year)+"/"+"week_"+str(week)+".htm"
         try:
