@@ -1,0 +1,529 @@
+date, winner, winning_score, loser, losing_score, draw
+Sep 10| 1966,Green Bay Packers,24,Baltimore Colts,3,No
+Sep 11| 1966,Cleveland Browns,38,Washington Redskins,14,No
+Sep 11| 1966,Minnesota Vikings,20,San Francisco 49ers,20,Yes
+Sep 11| 1966,New York Giants,34,Pittsburgh Steelers,34,Yes
+Sep 11| 1966,Detroit Lions,14,Chicago Bears,3,No
+Sep 11| 1966,St. Louis Cardinals,16,Philadelphia Eagles,13,No
+Sep 11| 1966,Los Angeles Rams,19,Atlanta Falcons,14,No
+Sep 16| 1966,Los Angeles Rams,31,Chicago Bears,17,No
+Sep 18| 1966,Pittsburgh Steelers,17,Detroit Lions,3,No
+Sep 18| 1966,Philadelphia Eagles,23,Atlanta Falcons,10,No
+Sep 18| 1966,Baltimore Colts,38,Minnesota Vikings,23,No
+Sep 18| 1966,Dallas Cowboys,52,New York Giants,7,No
+Sep 18| 1966,St. Louis Cardinals,23,Washington Redskins,7,No
+Sep 18| 1966,Green Bay Packers,21,Cleveland Browns,20,No
+Sep 25| 1966,Washington Redskins,33,Pittsburgh Steelers,27,No
+Sep 25| 1966,Philadelphia Eagles,35,New York Giants,17,No
+Sep 25| 1966,Green Bay Packers,24,Los Angeles Rams,13,No
+Sep 25| 1966,Detroit Lions,28,Atlanta Falcons,10,No
+Sep 25| 1966,Dallas Cowboys,28,Minnesota Vikings,17,No
+Sep 25| 1966,Baltimore Colts,36,San Francisco 49ers,14,No
+Sep 25| 1966,St. Louis Cardinals,34,Cleveland Browns,28,No
+Sep 30| 1966,Los Angeles Rams,34,San Francisco 49ers,3,No
+Oct 2| 1966,Washington Redskins,24,Pittsburgh Steelers,10,No
+Oct 2| 1966,St. Louis Cardinals,41,Philadelphia Eagles,10,No
+Oct 2| 1966,Cleveland Browns,28,New York Giants,7,No
+Oct 2| 1966,Chicago Bears,13,Minnesota Vikings,10,No
+Oct 2| 1966,Green Bay Packers,23,Detroit Lions,14,No
+Oct 2| 1966,Dallas Cowboys,47,Atlanta Falcons,14,No
+Oct 8| 1966,Cleveland Browns,41,Pittsburgh Steelers,10,No
+Oct 9| 1966,Washington Redskins,33,Atlanta Falcons,20,No
+Oct 9| 1966,San Francisco 49ers,21,Green Bay Packers,20,No
+Oct 9| 1966,Los Angeles Rams,14,Detroit Lions,7,No
+Oct 9| 1966,Dallas Cowboys,56,Philadelphia Eagles,7,No
+Oct 9| 1966,St. Louis Cardinals,24,New York Giants,19,No
+Oct 9| 1966,Chicago Bears,27,Baltimore Colts,17,No
+Oct 16| 1966,Philadelphia Eagles,31,Pittsburgh Steelers,14,No
+Oct 16| 1966,New York Giants,13,Washington Redskins,10,No
+Oct 16| 1966,Minnesota Vikings,35,Los Angeles Rams,7,No
+Oct 16| 1966,Dallas Cowboys,10,St. Louis Cardinals,10,Yes
+Oct 16| 1966,Baltimore Colts,45,Detroit Lions,14,No
+Oct 16| 1966,Green Bay Packers,17,Chicago Bears,0,No
+Oct 16| 1966,San Francisco 49ers,44,Atlanta Falcons,7,No
+Oct 23| 1966,Washington Redskins,26,St. Louis Cardinals,20,No
+Oct 23| 1966,San Francisco 49ers,27,Detroit Lions,24,No
+Oct 23| 1966,Philadelphia Eagles,31,New York Giants,3,No
+Oct 23| 1966,Green Bay Packers,56,Atlanta Falcons,3,No
+Oct 23| 1966,Baltimore Colts,20,Minnesota Vikings,17,No
+Oct 23| 1966,Cleveland Browns,30,Dallas Cowboys,21,No
+Oct 23| 1966,Chicago Bears,17,Los Angeles Rams,10,No
+Oct 30| 1966,Baltimore Colts,17,Los Angeles Rams,3,No
+Oct 30| 1966,Washington Redskins,27,Philadelphia Eagles,13,No
+Oct 30| 1966,Minnesota Vikings,28,San Francisco 49ers,3,No
+Oct 30| 1966,Green Bay Packers,31,Detroit Lions,7,No
+Oct 30| 1966,Dallas Cowboys,52,Pittsburgh Steelers,21,No
+Oct 30| 1966,Cleveland Browns,49,Atlanta Falcons,17,No
+Oct 31| 1966,St. Louis Cardinals,24,Chicago Bears,17,No
+Nov 6| 1966,San Francisco 49ers,21,Los Angeles Rams,13,No
+Nov 6| 1966,Pittsburgh Steelers,16,Cleveland Browns,6,No
+Nov 6| 1966,Philadelphia Eagles,24,Dallas Cowboys,23,No
+Nov 6| 1966,St. Louis Cardinals,20,New York Giants,17,No
+Nov 6| 1966,Minnesota Vikings,20,Green Bay Packers,17,No
+Nov 6| 1966,Baltimore Colts,37,Washington Redskins,10,No
+Nov 6| 1966,Detroit Lions,10,Chicago Bears,10,Yes
+Nov 13| 1966,Dallas Cowboys,31,Washington Redskins,30,No
+Nov 13| 1966,Los Angeles Rams,55,New York Giants,14,No
+Nov 13| 1966,Pittsburgh Steelers,30,St. Louis Cardinals,9,No
+Nov 13| 1966,Detroit Lions,32,Minnesota Vikings,31,No
+Nov 13| 1966,Cleveland Browns,27,Philadelphia Eagles,7,No
+Nov 13| 1966,San Francisco 49ers,30,Chicago Bears,30,Yes
+Nov 13| 1966,Baltimore Colts,19,Atlanta Falcons,7,No
+Nov 20| 1966,Philadelphia Eagles,35,San Francisco 49ers,34,No
+Nov 20| 1966,Los Angeles Rams,21,Minnesota Vikings,6,No
+Nov 20| 1966,Dallas Cowboys,20,Pittsburgh Steelers,7,No
+Nov 20| 1966,Atlanta Falcons,27,New York Giants,16,No
+Nov 20| 1966,Green Bay Packers,13,Chicago Bears,6,No
+Nov 20| 1966,Detroit Lions,20,Baltimore Colts,14,No
+Nov 20| 1966,Cleveland Browns,14,Washington Redskins,3,No
+Nov 24| 1966,San Francisco 49ers,41,Detroit Lions,14,No
+Nov 24| 1966,Dallas Cowboys,26,Cleveland Browns,14,No
+Nov 27| 1966,Washington Redskins,72,New York Giants,41,No
+Nov 27| 1966,Green Bay Packers,28,Minnesota Vikings,16,No
+Nov 27| 1966,St. Louis Cardinals,6,Pittsburgh Steelers,3,No
+Nov 27| 1966,Los Angeles Rams,23,Baltimore Colts,7,No
+Nov 27| 1966,Chicago Bears,23,Atlanta Falcons,6,No
+Dec 4| 1966,Los Angeles Rams,23,Detroit Lions,3,No
+Dec 4| 1966,Philadelphia Eagles,27,Pittsburgh Steelers,23,No
+Dec 4| 1966,Atlanta Falcons,20,Minnesota Vikings,13,No
+Dec 4| 1966,Green Bay Packers,20,San Francisco 49ers,7,No
+Dec 4| 1966,Dallas Cowboys,31,St. Louis Cardinals,17,No
+Dec 4| 1966,Baltimore Colts,21,Chicago Bears,16,No
+Dec 4| 1966,Cleveland Browns,49,New York Giants,40,No
+Dec 10| 1966,Green Bay Packers,14,Baltimore Colts,10,No
+Dec 11| 1966,San Francisco 49ers,41,Chicago Bears,14,No
+Dec 11| 1966,Philadelphia Eagles,33,Cleveland Browns,21,No
+Dec 11| 1966,Pittsburgh Steelers,47,New York Giants,28,No
+Dec 11| 1966,Minnesota Vikings,28,Detroit Lions,16,No
+Dec 11| 1966,Washington Redskins,34,Dallas Cowboys,31,No
+Dec 11| 1966,Atlanta Falcons,16,St. Louis Cardinals,10,No
+Dec 17| 1966,Cleveland Browns,38,St. Louis Cardinals,10,No
+Dec 18| 1966,Philadelphia Eagles,37,Washington Redskins,28,No
+Dec 18| 1966,Baltimore Colts,30,San Francisco 49ers,14,No
+Dec 18| 1966,Green Bay Packers,27,Los Angeles Rams,23,No
+Dec 18| 1966,Dallas Cowboys,17,New York Giants,7,No
+Dec 18| 1966,Chicago Bears,41,Minnesota Vikings,28,No
+Dec 18| 1966,Pittsburgh Steelers,57,Atlanta Falcons,33,No
+Jan 1| 1967,Green Bay Packers,34,Dallas Cowboys,27,No
+Jan 15| 1967,Green Bay Packers,35,Kansas City Chiefs,10,No
+Sep 17| 1967,Baltimore Colts,38,Atlanta Falcons,31,No
+Sep 17| 1967,Dallas Cowboys,21,Cleveland Browns,14,No
+Sep 17| 1967,Pittsburgh Steelers,41,Chicago Bears,13,No
+Sep 17| 1967,Philadelphia Eagles,35,Washington Redskins,24,No
+Sep 17| 1967,Los Angeles Rams,27,New Orleans Saints,13,No
+Sep 17| 1967,San Francisco 49ers,27,Minnesota Vikings,21,No
+Sep 17| 1967,Detroit Lions,17,Green Bay Packers,17,Yes
+Sep 17| 1967,New York Giants,37,St. Louis Cardinals,20,No
+Sep 22| 1967,Los Angeles Rams,39,Minnesota Vikings,3,No
+Sep 24| 1967,San Francisco 49ers,38,Atlanta Falcons,7,No
+Sep 24| 1967,St. Louis Cardinals,28,Pittsburgh Steelers,14,No
+Sep 24| 1967,Baltimore Colts,38,Philadelphia Eagles,6,No
+Sep 24| 1967,Washington Redskins,30,New Orleans Saints,10,No
+Sep 24| 1967,Green Bay Packers,13,Chicago Bears,10,No
+Sep 24| 1967,Detroit Lions,31,Cleveland Browns,14,No
+Sep 24| 1967,Dallas Cowboys,38,New York Giants,24,No
+Oct 1| 1967,Washington Redskins,38,New York Giants,34,No
+Oct 1| 1967,Philadelphia Eagles,34,Pittsburgh Steelers,24,No
+Oct 1| 1967,Cleveland Browns,42,New Orleans Saints,7,No
+Oct 1| 1967,Chicago Bears,17,Minnesota Vikings,7,No
+Oct 1| 1967,Green Bay Packers,23,Atlanta Falcons,0,No
+Oct 1| 1967,Los Angeles Rams,35,Dallas Cowboys,13,No
+Oct 1| 1967,St. Louis Cardinals,38,Detroit Lions,28,No
+Oct 1| 1967,Baltimore Colts,41,San Francisco 49ers,7,No
+Oct 7| 1967,Cleveland Browns,21,Pittsburgh Steelers,10,No
+Oct 8| 1967,Dallas Cowboys,17,Washington Redskins,14,No
+Oct 8| 1967,San Francisco 49ers,27,Los Angeles Rams,24,No
+Oct 8| 1967,New York Giants,27,New Orleans Saints,21,No
+Oct 8| 1967,St. Louis Cardinals,34,Minnesota Vikings,24,No
+Oct 8| 1967,Green Bay Packers,27,Detroit Lions,17,No
+Oct 8| 1967,Baltimore Colts,24,Chicago Bears,3,No
+Oct 8| 1967,Philadelphia Eagles,38,Atlanta Falcons,7,No
+Oct 15| 1967,New York Giants,27,Pittsburgh Steelers,24,No
+Oct 15| 1967,San Francisco 49ers,28,Philadelphia Eagles,27,No
+Oct 15| 1967,Minnesota Vikings,10,Green Bay Packers,7,No
+Oct 15| 1967,Dallas Cowboys,14,New Orleans Saints,10,No
+Oct 15| 1967,Los Angeles Rams,24,Baltimore Colts,24,Yes
+Oct 15| 1967,Cleveland Browns,20,St. Louis Cardinals,16,No
+Oct 15| 1967,Chicago Bears,14,Detroit Lions,3,No
+Oct 15| 1967,Washington Redskins,20,Atlanta Falcons,20,Yes
+Oct 22| 1967,San Francisco 49ers,27,New Orleans Saints,13,No
+Oct 22| 1967,Washington Redskins,28,Los Angeles Rams,28,Yes
+Oct 22| 1967,Dallas Cowboys,24,Pittsburgh Steelers,21,No
+Oct 22| 1967,Green Bay Packers,48,New York Giants,21,No
+Oct 22| 1967,Baltimore Colts,20,Minnesota Vikings,20,Yes
+Oct 22| 1967,Detroit Lions,24,Atlanta Falcons,3,No
+Oct 22| 1967,St. Louis Cardinals,48,Philadelphia Eagles,14,No
+Oct 22| 1967,Cleveland Browns,24,Chicago Bears,0,No
+Oct 29| 1967,Baltimore Colts,17,Washington Redskins,13,No
+Oct 29| 1967,Detroit Lions,45,San Francisco 49ers,3,No
+Oct 29| 1967,Philadelphia Eagles,21,Dallas Cowboys,14,No
+Oct 29| 1967,New York Giants,38,Cleveland Browns,34,No
+Oct 29| 1967,Pittsburgh Steelers,14,New Orleans Saints,10,No
+Oct 29| 1967,Los Angeles Rams,28,Chicago Bears,17,No
+Oct 29| 1967,Atlanta Falcons,21,Minnesota Vikings,20,No
+Oct 30| 1967,Green Bay Packers,31,St. Louis Cardinals,23,No
+Nov 5| 1967,St. Louis Cardinals,27,Washington Redskins,21,No
+Nov 5| 1967,Los Angeles Rams,17,San Francisco 49ers,7,No
+Nov 5| 1967,Cleveland Browns,34,Pittsburgh Steelers,14,No
+Nov 5| 1967,New Orleans Saints,31,Philadelphia Eagles,24,No
+Nov 5| 1967,Minnesota Vikings,27,New York Giants,24,No
+Nov 5| 1967,Chicago Bears,27,Detroit Lions,13,No
+Nov 5| 1967,Dallas Cowboys,37,Atlanta Falcons,7,No
+Nov 5| 1967,Baltimore Colts,13,Green Bay Packers,10,No
+Nov 12| 1967,Washington Redskins,31,San Francisco 49ers,28,No
+Nov 12| 1967,Los Angeles Rams,33,Philadelphia Eagles,17,No
+Nov 12| 1967,Dallas Cowboys,27,New Orleans Saints,10,No
+Nov 12| 1967,Detroit Lions,10,Minnesota Vikings,10,Yes
+Nov 12| 1967,Green Bay Packers,55,Cleveland Browns,7,No
+Nov 12| 1967,Pittsburgh Steelers,14,St. Louis Cardinals,14,Yes
+Nov 12| 1967,Chicago Bears,34,New York Giants,7,No
+Nov 12| 1967,Baltimore Colts,49,Atlanta Falcons,7,No
+Nov 19| 1967,Philadelphia Eagles,48,New Orleans Saints,21,No
+Nov 19| 1967,New York Giants,28,Pittsburgh Steelers,20,No
+Nov 19| 1967,Green Bay Packers,13,San Francisco 49ers,0,No
+Nov 19| 1967,Washington Redskins,27,Dallas Cowboys,20,No
+Nov 19| 1967,Baltimore Colts,41,Detroit Lions,7,No
+Nov 19| 1967,Cleveland Browns,14,Minnesota Vikings,10,No
+Nov 19| 1967,Chicago Bears,30,St. Louis Cardinals,3,No
+Nov 19| 1967,Los Angeles Rams,31,Atlanta Falcons,3,No
+Nov 23| 1967,Los Angeles Rams,31,Detroit Lions,7,No
+Nov 23| 1967,Dallas Cowboys,46,St. Louis Cardinals,21,No
+Nov 26| 1967,Baltimore Colts,26,San Francisco 49ers,9,No
+Nov 26| 1967,Minnesota Vikings,41,Pittsburgh Steelers,27,No
+Nov 26| 1967,New York Giants,44,Philadelphia Eagles,7,No
+Nov 26| 1967,New Orleans Saints,27,Atlanta Falcons,24,No
+Nov 26| 1967,Cleveland Browns,42,Washington Redskins,37,No
+Nov 26| 1967,Green Bay Packers,17,Chicago Bears,13,No
+Dec 3| 1967,Philadelphia Eagles,35,Washington Redskins,35,Yes
+Dec 3| 1967,Chicago Bears,28,San Francisco 49ers,14,No
+Dec 3| 1967,Los Angeles Rams,20,Atlanta Falcons,3,No
+Dec 3| 1967,Green Bay Packers,30,Minnesota Vikings,27,No
+Dec 3| 1967,Pittsburgh Steelers,24,Detroit Lions,14,No
+Dec 3| 1967,St. Louis Cardinals,31,New Orleans Saints,20,No
+Dec 3| 1967,Baltimore Colts,23,Dallas Cowboys,17,No
+Dec 3| 1967,Cleveland Browns,24,New York Giants,14,No
+Dec 9| 1967,Los Angeles Rams,27,Green Bay Packers,24,No
+Dec 10| 1967,Washington Redskins,15,Pittsburgh Steelers,10,No
+Dec 10| 1967,Detroit Lions,30,New York Giants,7,No
+Dec 10| 1967,Dallas Cowboys,38,Philadelphia Eagles,17,No
+Dec 10| 1967,Cleveland Browns,20,St. Louis Cardinals,16,No
+Dec 10| 1967,Baltimore Colts,30,New Orleans Saints,10,No
+Dec 10| 1967,Minnesota Vikings,10,Chicago Bears,10,Yes
+Dec 10| 1967,San Francisco 49ers,34,Atlanta Falcons,28,No
+Dec 16| 1967,San Francisco 49ers,24,Dallas Cowboys,16,No
+Dec 17| 1967,New Orleans Saints,30,Washington Redskins,14,No
+Dec 17| 1967,Los Angeles Rams,34,Baltimore Colts,10,No
+Dec 17| 1967,Philadelphia Eagles,28,Cleveland Browns,24,No
+Dec 17| 1967,New York Giants,37,St. Louis Cardinals,14,No
+Dec 17| 1967,Pittsburgh Steelers,24,Green Bay Packers,17,No
+Dec 17| 1967,Detroit Lions,14,Minnesota Vikings,3,No
+Dec 17| 1967,Chicago Bears,23,Atlanta Falcons,14,No
+Dec 23| 1967,Green Bay Packers,28,Los Angeles Rams,7,No
+Dec 24| 1967,Dallas Cowboys,52,Cleveland Browns,14,No
+Dec 31| 1967,Green Bay Packers,21,Dallas Cowboys,17,No
+Jan 14| 1968,Green Bay Packers,33,Oakland Raiders,14,No
+Sep 14| 1968,Minnesota Vikings,47,Atlanta Falcons,7,No
+Sep 15| 1968,New York Giants,34,Pittsburgh Steelers,20,No
+Sep 15| 1968,Cleveland Browns,24,New Orleans Saints,10,No
+Sep 15| 1968,Green Bay Packers,30,Philadelphia Eagles,13,No
+Sep 15| 1968,Dallas Cowboys,59,Detroit Lions,13,No
+Sep 15| 1968,Baltimore Colts,27,San Francisco 49ers,10,No
+Sep 15| 1968,Washington Redskins,38,Chicago Bears,28,No
+Sep 16| 1968,Los Angeles Rams,24,St. Louis Cardinals,13,No
+Sep 22| 1968,San Francisco 49ers,35,St. Louis Cardinals,17,No
+Sep 22| 1968,Los Angeles Rams,45,Pittsburgh Steelers,10,No
+Sep 22| 1968,New York Giants,34,Philadelphia Eagles,25,No
+Sep 22| 1968,New Orleans Saints,37,Washington Redskins,17,No
+Sep 22| 1968,Minnesota Vikings,26,Green Bay Packers,13,No
+Sep 22| 1968,Detroit Lions,42,Chicago Bears,0,No
+Sep 22| 1968,Dallas Cowboys,28,Cleveland Browns,7,No
+Sep 22| 1968,Baltimore Colts,28,Atlanta Falcons,20,No
+Sep 29| 1968,San Francisco 49ers,28,Atlanta Falcons,13,No
+Sep 29| 1968,Baltimore Colts,41,Pittsburgh Steelers,7,No
+Sep 29| 1968,Dallas Cowboys,45,Philadelphia Eagles,13,No
+Sep 29| 1968,New York Giants,48,Washington Redskins,21,No
+Sep 29| 1968,St. Louis Cardinals,21,New Orleans Saints,20,No
+Sep 29| 1968,Chicago Bears,27,Minnesota Vikings,17,No
+Sep 29| 1968,Detroit Lions,23,Green Bay Packers,17,No
+Sep 29| 1968,Los Angeles Rams,24,Cleveland Browns,6,No
+Oct 5| 1968,Cleveland Browns,31,Pittsburgh Steelers,24,No
+Oct 6| 1968,Washington Redskins,17,Philadelphia Eagles,14,No
+Oct 6| 1968,Los Angeles Rams,24,San Francisco 49ers,10,No
+Oct 6| 1968,New York Giants,38,New Orleans Saints,21,No
+Oct 6| 1968,Minnesota Vikings,24,Detroit Lions,10,No
+Oct 6| 1968,Dallas Cowboys,27,St. Louis Cardinals,10,No
+Oct 6| 1968,Baltimore Colts,28,Chicago Bears,7,No
+Oct 6| 1968,Green Bay Packers,38,Atlanta Falcons,7,No
+Oct 13| 1968,Washington Redskins,16,Pittsburgh Steelers,13,No
+Oct 13| 1968,Baltimore Colts,42,San Francisco 49ers,14,No
+Oct 13| 1968,New Orleans Saints,20,Minnesota Vikings,17,No
+Oct 13| 1968,Los Angeles Rams,16,Green Bay Packers,14,No
+Oct 13| 1968,Dallas Cowboys,34,Philadelphia Eagles,14,No
+Oct 13| 1968,St. Louis Cardinals,27,Cleveland Browns,21,No
+Oct 13| 1968,Detroit Lions,28,Chicago Bears,10,No
+Oct 13| 1968,Atlanta Falcons,24,New York Giants,21,No
+Oct 20| 1968,Los Angeles Rams,27,Atlanta Falcons,14,No
+Oct 20| 1968,New Orleans Saints,16,Pittsburgh Steelers,12,No
+Oct 20| 1968,Chicago Bears,29,Philadelphia Eagles,16,No
+Oct 20| 1968,San Francisco 49ers,26,New York Giants,10,No
+Oct 20| 1968,Dallas Cowboys,20,Minnesota Vikings,7,No
+Oct 20| 1968,Green Bay Packers,14,Detroit Lions,14,Yes
+Oct 20| 1968,St. Louis Cardinals,41,Washington Redskins,14,No
+Oct 20| 1968,Cleveland Browns,30,Baltimore Colts,20,No
+Oct 27| 1968,New York Giants,13,Washington Redskins,10,No
+Oct 27| 1968,Pittsburgh Steelers,6,Philadelphia Eagles,3,No
+Oct 27| 1968,San Francisco 49ers,14,Detroit Lions,7,No
+Oct 27| 1968,St. Louis Cardinals,31,New Orleans Saints,17,No
+Oct 27| 1968,Baltimore Colts,27,Los Angeles Rams,10,No
+Oct 27| 1968,Cleveland Browns,30,Atlanta Falcons,7,No
+Oct 27| 1968,Chicago Bears,26,Minnesota Vikings,24,No
+Oct 28| 1968,Green Bay Packers,28,Dallas Cowboys,17,No
+Nov 3| 1968,Cleveland Browns,33,San Francisco 49ers,21,No
+Nov 3| 1968,Los Angeles Rams,10,Detroit Lions,7,No
+Nov 3| 1968,St. Louis Cardinals,45,Philadelphia Eagles,17,No
+Nov 3| 1968,Baltimore Colts,26,New York Giants,0,No
+Nov 3| 1968,Dallas Cowboys,17,New Orleans Saints,3,No
+Nov 3| 1968,Minnesota Vikings,27,Washington Redskins,14,No
+Nov 3| 1968,Chicago Bears,13,Green Bay Packers,10,No
+Nov 3| 1968,Pittsburgh Steelers,41,Atlanta Falcons,21,No
+Nov 10| 1968,Washington Redskins,16,Philadelphia Eagles,10,No
+Nov 10| 1968,Minnesota Vikings,14,Green Bay Packers,10,No
+Nov 10| 1968,Baltimore Colts,27,Detroit Lions,10,No
+Nov 10| 1968,New York Giants,27,Dallas Cowboys,21,No
+Nov 10| 1968,Pittsburgh Steelers,28,St. Louis Cardinals,28,Yes
+Nov 10| 1968,Cleveland Browns,35,New Orleans Saints,17,No
+Nov 10| 1968,Chicago Bears,27,San Francisco 49ers,19,No
+Nov 10| 1968,Los Angeles Rams,17,Atlanta Falcons,10,No
+Nov 17| 1968,Dallas Cowboys,44,Washington Redskins,24,No
+Nov 17| 1968,Los Angeles Rams,20,San Francisco 49ers,20,Yes
+Nov 17| 1968,Cleveland Browns,45,Pittsburgh Steelers,24,No
+Nov 17| 1968,New York Giants,7,Philadelphia Eagles,6,No
+Nov 17| 1968,Green Bay Packers,29,New Orleans Saints,7,No
+Nov 17| 1968,Minnesota Vikings,13,Detroit Lions,6,No
+Nov 17| 1968,Baltimore Colts,27,St. Louis Cardinals,0,No
+Nov 17| 1968,Atlanta Falcons,16,Chicago Bears,13,No
+Nov 24| 1968,Green Bay Packers,27,Washington Redskins,7,No
+Nov 24| 1968,Los Angeles Rams,24,New York Giants,21,No
+Nov 24| 1968,San Francisco 49ers,45,Pittsburgh Steelers,28,No
+Nov 24| 1968,New Orleans Saints,20,Detroit Lions,20,Yes
+Nov 24| 1968,St. Louis Cardinals,17,Atlanta Falcons,12,No
+Nov 24| 1968,Baltimore Colts,21,Minnesota Vikings,9,No
+Nov 24| 1968,Cleveland Browns,47,Philadelphia Eagles,13,No
+Nov 24| 1968,Dallas Cowboys,34,Chicago Bears,3,No
+Nov 28| 1968,Philadelphia Eagles,12,Detroit Lions,0,No
+Nov 28| 1968,Dallas Cowboys,29,Washington Redskins,20,No
+Dec 1| 1968,San Francisco 49ers,27,Green Bay Packers,20,No
+Dec 1| 1968,St. Louis Cardinals,20,Pittsburgh Steelers,10,No
+Dec 1| 1968,Chicago Bears,23,New Orleans Saints,17,No
+Dec 1| 1968,Los Angeles Rams,31,Minnesota Vikings,3,No
+Dec 1| 1968,Baltimore Colts,44,Atlanta Falcons,0,No
+Dec 1| 1968,Cleveland Browns,45,New York Giants,10,No
+Dec 7| 1968,Baltimore Colts,16,Green Bay Packers,3,No
+Dec 8| 1968,Cleveland Browns,24,Washington Redskins,21,No
+Dec 8| 1968,Minnesota Vikings,30,San Francisco 49ers,20,No
+Dec 8| 1968,Chicago Bears,17,Los Angeles Rams,16,No
+Dec 8| 1968,Philadelphia Eagles,29,New Orleans Saints,17,No
+Dec 8| 1968,St. Louis Cardinals,28,New York Giants,21,No
+Dec 8| 1968,Dallas Cowboys,28,Pittsburgh Steelers,7,No
+Dec 8| 1968,Detroit Lions,24,Atlanta Falcons,7,No
+Dec 14| 1968,St. Louis Cardinals,27,Cleveland Browns,16,No
+Dec 15| 1968,Washington Redskins,14,Detroit Lions,3,No
+Dec 15| 1968,Baltimore Colts,28,Los Angeles Rams,24,No
+Dec 15| 1968,Minnesota Vikings,24,Philadelphia Eagles,17,No
+Dec 15| 1968,Dallas Cowboys,28,New York Giants,10,No
+Dec 15| 1968,New Orleans Saints,24,Pittsburgh Steelers,14,No
+Dec 15| 1968,Green Bay Packers,28,Chicago Bears,27,No
+Dec 15| 1968,San Francisco 49ers,14,Atlanta Falcons,12,No
+Dec 21| 1968,Cleveland Browns,31,Dallas Cowboys,20,No
+Dec 22| 1968,Baltimore Colts,24,Minnesota Vikings,14,No
+Dec 29| 1968,Baltimore Colts,34,Cleveland Browns,0,No
+Jan 12| 1969,New York Jets,16,Baltimore Colts,7,No
+Sep 14| 1969,Denver Broncos,35,Boston Patriots,7,No
+Sep 14| 1969,Cincinnati Bengals,27,Miami Dolphins,21,No
+Sep 14| 1969,New York Jets,33,Buffalo Bills,19,No
+Sep 14| 1969,Kansas City Chiefs,27,San Diego Chargers,9,No
+Sep 14| 1969,Oakland Raiders,21,Houston Oilers,17,No
+Sep 21| 1969,Pittsburgh Steelers,16,Detroit Lions,13,No
+Sep 21| 1969,Cleveland Browns,27,Philadelphia Eagles,20,No
+Sep 21| 1969,New York Giants,24,Minnesota Vikings,23,No
+Sep 21| 1969,Washington Redskins,26,New Orleans Saints,20,No
+Sep 21| 1969,Green Bay Packers,17,Chicago Bears,0,No
+Sep 21| 1969,Dallas Cowboys,24,St. Louis Cardinals,3,No
+Sep 21| 1969,Los Angeles Rams,27,Baltimore Colts,20,No
+Sep 21| 1969,Atlanta Falcons,24,San Francisco 49ers,12,No
+Sep 20| 1969,Oakland Raiders,20,Miami Dolphins,17,No
+Sep 21| 1969,Cincinnati Bengals,34,San Diego Chargers,20,No
+Sep 21| 1969,Houston Oilers,17,Buffalo Bills,3,No
+Sep 21| 1969,Kansas City Chiefs,31,Boston Patriots,0,No
+Sep 21| 1969,Denver Broncos,21,New York Jets,19,No
+Sep 28| 1969,Los Angeles Rams,17,Atlanta Falcons,7,No
+Sep 28| 1969,Philadelphia Eagles,41,Pittsburgh Steelers,27,No
+Sep 28| 1969,Dallas Cowboys,21,New Orleans Saints,17,No
+Sep 28| 1969,Minnesota Vikings,52,Baltimore Colts,14,No
+Sep 28| 1969,Green Bay Packers,14,San Francisco 49ers,7,No
+Sep 28| 1969,Detroit Lions,24,New York Giants,0,No
+Sep 28| 1969,St. Louis Cardinals,20,Chicago Bears,17,No
+Sep 28| 1969,Cleveland Browns,27,Washington Redskins,23,No
+Sep 28| 1969,Oakland Raiders,38,Boston Patriots,23,No
+Sep 28| 1969,Cincinnati Bengals,24,Kansas City Chiefs,19,No
+Sep 28| 1969,Buffalo Bills,41,Denver Broncos,28,No
+Sep 28| 1969,San Diego Chargers,34,New York Jets,27,No
+Sep 28| 1969,Houston Oilers,22,Miami Dolphins,10,No
+Oct 5| 1969,Washington Redskins,17,San Francisco 49ers,17,Yes
+Oct 5| 1969,Los Angeles Rams,36,New Orleans Saints,17,No
+Oct 5| 1969,St. Louis Cardinals,27,Pittsburgh Steelers,14,No
+Oct 5| 1969,Dallas Cowboys,38,Philadelphia Eagles,7,No
+Oct 5| 1969,New York Giants,28,Chicago Bears,24,No
+Oct 5| 1969,Minnesota Vikings,19,Green Bay Packers,7,No
+Oct 5| 1969,Detroit Lions,28,Cleveland Browns,21,No
+Oct 5| 1969,Baltimore Colts,21,Atlanta Falcons,14,No
+Oct 4| 1969,San Diego Chargers,21,Cincinnati Bengals,14,No
+Oct 4| 1969,Oakland Raiders,20,Miami Dolphins,20,Yes
+Oct 5| 1969,Kansas City Chiefs,26,Denver Broncos,13,No
+Oct 5| 1969,Houston Oilers,28,Buffalo Bills,14,No
+Oct 5| 1969,New York Jets,23,Boston Patriots,14,No
+Oct 12| 1969,Washington Redskins,33,St. Louis Cardinals,17,No
+Oct 12| 1969,Los Angeles Rams,27,San Francisco 49ers,21,No
+Oct 12| 1969,New York Giants,10,Pittsburgh Steelers,7,No
+Oct 12| 1969,Cleveland Browns,27,New Orleans Saints,17,No
+Oct 12| 1969,Green Bay Packers,28,Detroit Lions,17,No
+Oct 12| 1969,Minnesota Vikings,31,Chicago Bears,0,No
+Oct 12| 1969,Dallas Cowboys,24,Atlanta Falcons,17,No
+Oct 13| 1969,Baltimore Colts,24,Philadelphia Eagles,20,No
+Oct 11| 1969,San Diego Chargers,21,Miami Dolphins,14,No
+Oct 11| 1969,Buffalo Bills,23,Boston Patriots,16,No
+Oct 12| 1969,New York Jets,21,Cincinnati Bengals,7,No
+Oct 12| 1969,Kansas City Chiefs,24,Houston Oilers,0,No
+Oct 12| 1969,Oakland Raiders,24,Denver Broncos,14,No
+Oct 18| 1969,Cleveland Browns,42,Pittsburgh Steelers,31,No
+Oct 19| 1969,Washington Redskins,20,New York Giants,14,No
+Oct 19| 1969,Atlanta Falcons,21,San Francisco 49ers,7,No
+Oct 19| 1969,Los Angeles Rams,34,Green Bay Packers,21,No
+Oct 19| 1969,Baltimore Colts,30,New Orleans Saints,10,No
+Oct 19| 1969,Detroit Lions,13,Chicago Bears,7,No
+Oct 19| 1969,Dallas Cowboys,49,Philadelphia Eagles,14,No
+Oct 19| 1969,Minnesota Vikings,27,St. Louis Cardinals,10,No
+Oct 19| 1969,San Diego Chargers,13,Boston Patriots,10,No
+Oct 19| 1969,Kansas City Chiefs,17,Miami Dolphins,10,No
+Oct 19| 1969,Denver Broncos,30,Cincinnati Bengals,23,No
+Oct 19| 1969,Oakland Raiders,50,Buffalo Bills,21,No
+Oct 20| 1969,New York Jets,26,Houston Oilers,17,No
+Oct 26| 1969,Washington Redskins,14,Pittsburgh Steelers,7,No
+Oct 26| 1969,Philadelphia Eagles,13,New Orleans Saints,10,No
+Oct 26| 1969,Minnesota Vikings,24,Detroit Lions,10,No
+Oct 26| 1969,Green Bay Packers,28,Atlanta Falcons,10,No
+Oct 26| 1969,San Francisco 49ers,24,Baltimore Colts,21,No
+Oct 26| 1969,St. Louis Cardinals,21,Cleveland Browns,21,Yes
+Oct 26| 1969,Los Angeles Rams,9,Chicago Bears,7,No
+Oct 27| 1969,Dallas Cowboys,25,New York Giants,3,No
+Oct 26| 1969,New York Jets,23,Boston Patriots,17,No
+Oct 26| 1969,Miami Dolphins,24,Buffalo Bills,6,No
+Oct 26| 1969,Kansas City Chiefs,42,Cincinnati Bengals,22,No
+Oct 26| 1969,Oakland Raiders,24,San Diego Chargers,12,No
+Oct 26| 1969,Houston Oilers,24,Denver Broncos,21,No
+Nov 2| 1969,Detroit Lions,26,San Francisco 49ers,14,No
+Nov 2| 1969,Green Bay Packers,38,Pittsburgh Steelers,34,No
+Nov 2| 1969,Philadelphia Eagles,23,New York Giants,20,No
+Nov 2| 1969,Minnesota Vikings,31,Chicago Bears,14,No
+Nov 2| 1969,New Orleans Saints,51,St. Louis Cardinals,42,No
+Nov 2| 1969,Baltimore Colts,41,Washington Redskins,17,No
+Nov 2| 1969,Cleveland Browns,42,Dallas Cowboys,10,No
+Nov 2| 1969,Los Angeles Rams,38,Atlanta Falcons,6,No
+Nov 2| 1969,Denver Broncos,13,San Diego Chargers,0,No
+Nov 2| 1969,Cincinnati Bengals,31,Oakland Raiders,17,No
+Nov 2| 1969,Kansas City Chiefs,29,Buffalo Bills,7,No
+Nov 2| 1969,New York Jets,34,Miami Dolphins,31,No
+Nov 2| 1969,Boston Patriots,24,Houston Oilers,0,No
+Nov 9| 1969,Philadelphia Eagles,28,Washington Redskins,28,Yes
+Nov 9| 1969,Los Angeles Rams,41,San Francisco 49ers,30,No
+Nov 9| 1969,Minnesota Vikings,51,Cleveland Browns,3,No
+Nov 9| 1969,Detroit Lions,27,Atlanta Falcons,21,No
+Nov 9| 1969,Dallas Cowboys,33,New Orleans Saints,17,No
+Nov 9| 1969,St. Louis Cardinals,42,New York Giants,17,No
+Nov 9| 1969,Baltimore Colts,14,Green Bay Packers,6,No
+Nov 9| 1969,Chicago Bears,38,Pittsburgh Steelers,7,No
+Nov 9| 1969,New York Jets,16,Buffalo Bills,6,No
+Nov 9| 1969,Miami Dolphins,17,Boston Patriots,16,No
+Nov 9| 1969,Kansas City Chiefs,27,San Diego Chargers,3,No
+Nov 9| 1969,Oakland Raiders,41,Denver Broncos,10,No
+Nov 9| 1969,Cincinnati Bengals,31,Houston Oilers,31,Yes
+Nov 16| 1969,Dallas Cowboys,41,Washington Redskins,28,No
+Nov 16| 1969,San Francisco 49ers,20,Baltimore Colts,17,No
+Nov 16| 1969,Cleveland Browns,24,Pittsburgh Steelers,3,No
+Nov 16| 1969,Los Angeles Rams,23,Philadelphia Eagles,17,No
+Nov 16| 1969,New Orleans Saints,25,New York Giants,24,No
+Nov 16| 1969,Minnesota Vikings,9,Green Bay Packers,7,No
+Nov 16| 1969,Detroit Lions,20,St. Louis Cardinals,0,No
+Nov 16| 1969,Atlanta Falcons,48,Chicago Bears,31,No
+Nov 16| 1969,Houston Oilers,20,Denver Broncos,20,Yes
+Nov 16| 1969,Boston Patriots,25,Cincinnati Bengals,14,No
+Nov 16| 1969,Buffalo Bills,28,Miami Dolphins,3,No
+Nov 16| 1969,Oakland Raiders,21,San Diego Chargers,16,No
+Nov 16| 1969,Kansas City Chiefs,34,New York Jets,16,No
+Nov 23| 1969,Washington Redskins,27,Atlanta Falcons,20,No
+Nov 23| 1969,Los Angeles Rams,24,Dallas Cowboys,23,No
+Nov 23| 1969,New Orleans Saints,43,San Francisco 49ers,38,No
+Nov 23| 1969,Minnesota Vikings,52,Pittsburgh Steelers,14,No
+Nov 23| 1969,Detroit Lions,16,Green Bay Packers,10,No
+Nov 23| 1969,Philadelphia Eagles,34,St. Louis Cardinals,30,No
+Nov 23| 1969,Cleveland Browns,28,New York Giants,17,No
+Nov 23| 1969,Baltimore Colts,24,Chicago Bears,21,No
+Nov 23| 1969,Boston Patriots,35,Buffalo Bills,21,No
+Nov 23| 1969,Houston Oilers,32,Miami Dolphins,7,No
+Nov 23| 1969,Oakland Raiders,27,Kansas City Chiefs,24,No
+Nov 23| 1969,San Diego Chargers,45,Denver Broncos,24,No
+Nov 23| 1969,New York Jets,40,Cincinnati Bengals,7,No
+Nov 27| 1969,Minnesota Vikings,27,Detroit Lions,0,No
+Nov 27| 1969,San Francisco 49ers,24,Dallas Cowboys,24,Yes
+Nov 30| 1969,Los Angeles Rams,24,Washington Redskins,13,No
+Nov 30| 1969,New Orleans Saints,26,Philadelphia Eagles,17,No
+Nov 30| 1969,Green Bay Packers,20,New York Giants,10,No
+Nov 30| 1969,St. Louis Cardinals,47,Pittsburgh Steelers,10,No
+Nov 30| 1969,Baltimore Colts,13,Atlanta Falcons,6,No
+Nov 30| 1969,Cleveland Browns,28,Chicago Bears,24,No
+Nov 27| 1969,San Diego Chargers,21,Houston Oilers,17,No
+Nov 27| 1969,Kansas City Chiefs,31,Denver Broncos,17,No
+Nov 30| 1969,Buffalo Bills,16,Cincinnati Bengals,13,No
+Nov 30| 1969,Oakland Raiders,27,New York Jets,14,No
+Nov 30| 1969,Boston Patriots,38,Miami Dolphins,23,No
+Dec 6| 1969,San Francisco 49ers,42,Chicago Bears,21,No
+Dec 7| 1969,Minnesota Vikings,20,Los Angeles Rams,13,No
+Dec 7| 1969,Dallas Cowboys,10,Pittsburgh Steelers,7,No
+Dec 7| 1969,Washington Redskins,34,Philadelphia Eagles,29,No
+Dec 7| 1969,New York Giants,49,St. Louis Cardinals,6,No
+Dec 7| 1969,Detroit Lions,17,Baltimore Colts,17,Yes
+Dec 7| 1969,Cleveland Browns,20,Green Bay Packers,7,No
+Dec 7| 1969,Atlanta Falcons,45,New Orleans Saints,17,No
+Dec 6| 1969,New York Jets,34,Houston Oilers,26,No
+Dec 7| 1969,Miami Dolphins,27,Denver Broncos,24,No
+Dec 7| 1969,Kansas City Chiefs,22,Buffalo Bills,19,No
+Dec 7| 1969,San Diego Chargers,28,Boston Patriots,18,No
+Dec 7| 1969,Oakland Raiders,37,Cincinnati Bengals,17,No
+Dec 13| 1969,Dallas Cowboys,27,Baltimore Colts,10,No
+Dec 14| 1969,Washington Redskins,17,New Orleans Saints,14,No
+Dec 14| 1969,New York Giants,21,Pittsburgh Steelers,17,No
+Dec 14| 1969,Atlanta Falcons,27,Philadelphia Eagles,3,No
+Dec 14| 1969,Minnesota Vikings,10,San Francisco 49ers,7,No
+Dec 14| 1969,Detroit Lions,28,Los Angeles Rams,0,No
+Dec 14| 1969,Cleveland Browns,27,St. Louis Cardinals,21,No
+Dec 14| 1969,Green Bay Packers,21,Chicago Bears,3,No
+Dec 13| 1969,Oakland Raiders,10,Kansas City Chiefs,6,No
+Dec 14| 1969,New York Jets,27,Miami Dolphins,9,No
+Dec 14| 1969,Denver Broncos,27,Cincinnati Bengals,16,No
+Dec 14| 1969,San Diego Chargers,45,Buffalo Bills,6,No
+Dec 14| 1969,Houston Oilers,27,Boston Patriots,23,No
+Dec 21| 1969,San Francisco 49ers,14,Philadelphia Eagles,13,No
+Dec 21| 1969,Baltimore Colts,13,Los Angeles Rams,7,No
+Dec 21| 1969,New York Giants,27,Cleveland Browns,14,No
+Dec 21| 1969,New Orleans Saints,27,Pittsburgh Steelers,24,No
+Dec 21| 1969,Green Bay Packers,45,St. Louis Cardinals,28,No
+Dec 21| 1969,Dallas Cowboys,20,Washington Redskins,10,No
+Dec 21| 1969,Detroit Lions,20,Chicago Bears,3,No
+Dec 21| 1969,Atlanta Falcons,10,Minnesota Vikings,3,No
+Dec 20| 1969,Kansas City Chiefs,13,New York Jets,6,No
+Dec 21| 1969,Oakland Raiders,56,Houston Oilers,7,No
+Dec 27| 1969,Minnesota Vikings,23,Los Angeles Rams,20,No
+Dec 28| 1969,Cleveland Browns,38,Dallas Cowboys,14,No
+Jan 4| 1970,Minnesota Vikings,27,Cleveland Browns,7,No
+Jan 4| 1970,Kansas City Chiefs,17,Oakland Raiders,7,No
+Jan 11| 1970,Kansas City Chiefs,23,Minnesota Vikings,7,No
