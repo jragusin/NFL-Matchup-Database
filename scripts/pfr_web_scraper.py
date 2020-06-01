@@ -12,7 +12,7 @@ containers = []
 filename = "nfl_records.csv"
 f = open(filename, "w")
 
-headers = "Date, Winner, Winning Score, Loser, Losing Score\n"
+headers = "date, winner, winning_score, loser, losing_score, draw\n"
 f.write(headers)
 
 for year in years_list:
@@ -30,9 +30,6 @@ for year in years_list:
 for i in range(0, len(containers)):
     for j in range(0, len(containers[i])):
         date = containers[i][j].td.text
-        info = containers[i][j].findAll("a")
-        winning_team = info[0].text
-        losing_team = info[2].text
         winner = containers[i][j].find("tr", {"class":"winner"})
         loser = containers[i][j].find("tr", {"class":"loser"})
         if(winner == None):
@@ -41,9 +38,12 @@ for i in range(0, len(containers)):
             losing_team = teams[1].td.text
             winning_score = teams[0].find("td", {"class":"right"}).text
             losing_score = winning_score
+            draw = "Yes"
         else:
+            winning_team = winner.a.text
+            losing_team = loser.a.text
             winning_score = winner.find("td", {"class":"right"}).text
             losing_score = loser.find("td", {"class":"right"}).text
-        f.write(date.replace(",", "|") + "," + winning_team + "," + winning_score + "," + losing_team + "," + losing_score + "\n")
-        print("Date: "+date+" Winner: "+winning_team+" Loser: "+losing_team+":"+winning_score+"-"+losing_score + "\n") 
+            draw = "No"
+        f.write(" " + date.replace(",", "|") + "," + winning_team + "," + winning_score + "," + losing_team + "," + losing_score + "," + draw + "\n")
 f.close()
